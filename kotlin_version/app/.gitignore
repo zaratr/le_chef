@@ -1,1 +1,6 @@
 /build
+
+src/main/assets/model.tflite
+src/main/assets/salad_colab1.tflite
+src/main/assets/salad_finish1.tflite
+src/main/assets/salad_google1.tflite

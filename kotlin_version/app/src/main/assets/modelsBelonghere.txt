@@ -1,0 +1,1 @@
+make sure to put models here in the assets folder. main will call the file when doing object detection.:wa

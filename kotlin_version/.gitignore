@@ -18,7 +18,3 @@
 .cxx
 local.properties
 /.idea/
-/app/src/main/assets/model.tflite
-/app/src/main/assets/salad_colab1.tflite
-/app/src/main/assets/salad_finish1.tflite
-/app/src/main/assets/salad_google1.tflite
