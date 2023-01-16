@@ -70,6 +70,7 @@
             android:src="@drawable/img_meal_three"/>
 
     </LinearLayout>
+
     <Button
         android:id="@+id/captureImageFab"
         android:layout_width="wrap_content"
@@ -77,8 +78,11 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center|bottom"
-        android:layout_margin="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
         android:drawableLeft="@drawable/ic_camera"
         android:text="@string/tv_take_photo"
-        android:textAllCaps="false"/>
+        android:textAllCaps="false" />
 </RelativeLayout>

@@ -1,0 +1,1 @@
+ml folder here is assets folder. so don't put tflite of same name in both assets and here. you can just place here.
